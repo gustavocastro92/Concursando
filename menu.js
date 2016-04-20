@@ -27,7 +27,7 @@ function redirMenu(x){
                 window.location.href = 'modo_zen.html';
                 break;
             case "arcade":
-                window.location.href = 'modo_arcade.html';
+                window.location.href = 'modo_arcade.html'; /*q*/
                 break;
             default:
                 window.location.href = 'index.html';
