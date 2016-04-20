@@ -1,0 +1,32 @@
+{"quizlist":[
+  
+	{
+	  "question":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet mollis fermentum. Suspendisse vitae elementum urna, sed bibendum dolor. Pellentesque nec erat at lacus eleifend interdum. Duis sed odio eu nisl interdum congue. Quisque nisl nisi, maximus sagittis aliquam vitae, vehicula vitae neque. In libero augue, ultricies quis auctor et, auctor eu metus. Cras varius tortor non nisi vulputate, a scelerisque risus finibus. Praesent pretium nisl quis risus accumsan, eget facilisis dolor rutrum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet mollis fermentum. Suspendisse vitae elementum urna, sed bibendum dolor. Pellentesque nec erat at lacus eleifend interdum. Duis sed odio eu nisl interdum congue. Quisque nisl nisi, maximus sagittis aliquam vitae, vehicula vitae neque. In libero augue, ultricies quis auctor et, auctor eu metus. Cras varius tortor non nisi vulputate, a scelerisque risus finibus. ",
+	  "option1":"Brazil",
+	  "option2":"Argentina",
+	  "option3":"Ecuador",
+    "option4":"Venezuela",
+    "ajuda":"A língua portuguesa é uma língua românica, flexiva que se originou no que é hoje a Galiza e o norte de Portugal, derivada do latim vulgar que foi introduzido no oeste da península Ibérica há cerca de dois mil anos, tem um substrato Céltico/Lusitano resultante da língua nativa dos povos pré-romanos que habitavam a parte ocidental da península Ibérica (Galaicos,Lusitanos, Célticos e Cónios). O idioma se espalhou pelo mundo nos séculos XV e XVI quando Portugal estabeleceu um império colonial e comercial (1415-1999) que se estendeu do Brasil, na América, a Goa, naÁsia (Índia, Macau na China e Timor-Leste). Foi utilizada como língua francaexclusiva na ilha do Sri Lanka por quase 350 anos. Durante esse tempo, muitas línguas crioulas baseadas no português também apareceram em todo o mundo, especialmente na África, na Ásia e no Caribe.Com mais de 240 milhões de falantes, é a quinta língua mais falada no mundo, a mais falada no hemisfério sul, a terceira mais falada no mundo ocidental e é uma das línguas alfabeto latino. Além de Brasil e Portugal éoficial em Angola, Cabo Verde, Guiné-Bissau, Macau, Moçambique, São Tomé e Príncipe, Timor-Leste e, desde 13 de julho de 2007, na Guiné Equatorial, sendo também falado nos antigos territórios da Índia Portuguesa (Goa, Damão, Ilha de Angediva, Simbor, Gogolá, Diu e Dadrá e Nagar-Aveli) e em pequenas comunidades que faziam parte do Império Português na Ásia como Malaca, na Malásia e na África Oriental comoZanzibar, na Tanzânia. Possui estatuto oficial na União Europeia, noMercosul, na União Africana, na Organização dos Estados Americanos, naUnião Latina, na Comunidade dos Países de Língua Portuguesa (CPLP) e naAssociação dos Comités Olímpicos de Língua Oficial Portuguesa(ACOLOP).",
+    "prova":"Cesgranrio - 2010"
+	},
+	{
+	"question":"What is the capital of Peru?",
+	"option1":"Lima",
+	"option2":"Bogota",
+	"option3":"San Juan"
+	},
+	{
+	"question":"Which country is long and thin?",
+	"option1":"Chile",
+	"option2":"Uruguay",
+	"option3":"Colombia"
+	},
+	{
+	"question":"teste questao",
+	"option1":"teste1",
+	"option2":"teste2",
+	"option3":"teste3",
+    "option4":"teste4"
+	}
+]
+}
