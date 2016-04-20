@@ -7,6 +7,8 @@ var stage2=new Object;
 var questionLock=false;
 var numberOfQuestions;
 var score=0;
+
+/*sgrgdkfjghdfgj,hxd*/
 		 
 
  		$.getJSON('activity.json', function(data) {
@@ -23,7 +25,7 @@ var score=0;
 		}
 		 numberOfQuestions=questionBank.length; 
 		
-		 window.onbeforeunload = function () { return "Seu progresso será perdido!"; };
+		 window.onbeforeunload = function () { return "Seu progresso serï¿½ perdido!"; };
             
 		displayQuestion();
 		})//gtjson
