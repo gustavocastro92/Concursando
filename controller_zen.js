@@ -8,8 +8,7 @@ var questionLock=false;
 var numberOfQuestions;
 var score=0;
 
-/*sgrgdkfjghdfgj,hxd*/
-		 
+
 
  		$.getJSON('activity.json', function(data) {
 
