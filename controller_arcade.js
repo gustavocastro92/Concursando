@@ -19,6 +19,7 @@ var numberOfQuestions;
 var score=0;
 
 var s = $("#tempos");
+var txtTempo = $('.tableTime');
 var pos = s.position();
 
 $(window).scroll(function() {
@@ -26,8 +27,10 @@ $(window).scroll(function() {
     
     if (windowpos >= pos.top){
         s.addClass("stick");
+        txtTempo.addClass("tableTimeFixed");
     }else{
         s.removeClass("stick");   
+        txtTempo.removeClass("tableTimeFixed");
     }
 });	 
 
