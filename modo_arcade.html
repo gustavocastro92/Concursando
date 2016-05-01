@@ -2,16 +2,70 @@
 <head>
  
     <title>Concursando</title>
-    <link href="main.css"rel="stylesheet"type="text/css"/>
+    
     <meta name=viewport content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
  	<script src="jquery.js"></script>
     <script src="controller_arcade.js"></script>
     <script src="easytimer.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    
+    <link href="main.css"rel="stylesheet"type="text/css"/>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css"/>
  
 </head>
 
     <body>
-        <div id = "header">Concursando</div>
+        <!-- inicio topbar -->
+        <div class="navbar navbar-inverse navbar-fixed-top">
+			<div class="container">
+				
+				<div class="navbar-header">
+				
+					<a href="index.php" class="navbar-brand">Concursando</a>
+					<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					
+				</div>
+					
+				<div class="collapse navbar-collapse navHeaderCollapse">
+				
+					<ul class="nav navbar-nav navbar-right">
+
+						<li><a href="#">
+							
+						</a></li>
+						<li><a href="profile.php">Perfil</a></li>
+						<li><a href="#">Ranking</a></li>
+						<li><a href="#">Sobre</a></li>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Login<b class="caret"></b></a>
+							<ul class="dropdown-menu">
+								<li><a href="#">
+									<label class="sr-only " for="exampleInputEmail3">Email address</label>
+									<input type="email" class="form-control" id="exampleInputEmail3" placeholder="Email">
+								</a></li>
+								<li><a href="#">
+									<label class="sr-only" for="exampleInputPassword3">Password</label>
+									<input type="password" class="form-control" id="exampleInputPassword3" placeholder="Password">
+								</a></li>
+								<li class="navbar-default">
+									<center><a href="cadastro.php" class="navbar-btn btn-default btn-sm">Cadastrar</a>
+									<button type="submit" class="btn btn-primary btn-sm">Entrar</button></center>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				
+			</div>
+		</div>
+        
+        <!-- fim topbar -->
         <div id="topbar">Arcade</div>
         <div class="spacer"></div>
         
